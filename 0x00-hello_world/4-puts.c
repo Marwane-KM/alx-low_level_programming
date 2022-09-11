@@ -1,14 +1,14 @@
-#include <unistd.h>
+#include <stdio.h>
+
 /**
-* main - Print Programming is like building a multilingual puzzle
+* main - Printing the string
 *
-* Return: 0
+*Return : 0
 */
 int main(void)
 {
-puts("\"Programming is like building a multilingual
-
-puzzle");
+puts("\"Programming is like building a multilingual puzzle");
 return (0);
-
 }
+
+
