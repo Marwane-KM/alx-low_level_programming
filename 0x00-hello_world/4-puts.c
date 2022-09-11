@@ -5,7 +5,7 @@
 *
 *Description: using main function
 *This code print a string using puts
-*Return : 0
+*Return: 0
 */
 int main(void)
 {
