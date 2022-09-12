@@ -5,14 +5,10 @@
 #include <time.h>
 
 /**
-
- * main - Entry point
-
- *
-
- * Return: Always 0 (Success)
-
- */
+* main - printing a text
+*
+*Return: 0
+*/
 
 int main(void)
 
